@@ -70,7 +70,7 @@ export default function Home() {
         </a>
 
         <a
-          href="mailto:lye@hawk.iit.edu"
+          href="mailto:lye10hawk.iit.edu"
           className="px-5 py-4 transition-colors border border-transparent border-gray-100 rounded-lg group dark:border-neutral-800 hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
