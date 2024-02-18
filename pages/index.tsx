@@ -13,13 +13,13 @@ export default function Home() {
           Hello world!
         </h1>
         <p className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] text-xl font-serif leading-10">
-          Lucie Ye, for ITMD544 setup lab
+          Built by Lucie Ye, for ITMD544 setup lab
         </p>
       </div>
 
       <div className="grid gap-2 mb-32 text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left ">
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
+          href="https://github.com/yelucie/ITMD544"
           className="px-5 py-4 transition-colors border border-transparent border-gray-100 rounded-lg group dark:border-neutral-800 hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-600 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -36,7 +36,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
+          href="https://github.com/yelucie"
           className="px-5 py-4 transition-colors border border-transparent border-gray-100 rounded-lg group dark:border-neutral-800 hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -53,7 +53,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
+          href="https://www.linkedin.com/in/LucieYe"
           className="px-5 py-4 transition-colors border border-transparent border-gray-100 rounded-lg group dark:border-neutral-800 hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -70,7 +70,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
+          href="mailto:lye@hawk.iit.edu"
           className="px-5 py-4 transition-colors border border-transparent border-gray-100 rounded-lg group dark:border-neutral-800 hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
